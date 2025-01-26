@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# NIRBHAYA 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: TECH-TINKERS
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: NANDANA CM - NSS COLLEGE OF ENGINEERING
+- Member 2: NANDHANA MANOJ - [College]
+- Member 3: MEENAKSHI A DINESH - [College]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
